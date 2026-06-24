@@ -1,5 +1,5 @@
 :: WARNING
-::This project is editable, You care what Windows version you using
+:: This project is editable, You care what Windows version you using
 :: This is default config use
 :: If wish you want remove, type pre-added command 'remove-oldfetch'
 
